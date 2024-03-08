@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\bin\Debug\net8.0\Ropa.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\bin\Debug\net8.0\Ropa.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\bin\Debug\net8.0\Ropa.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\bin\Debug\net8.0\Ropa.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\bin\Debug\net8.0\Ropa.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\Ropa.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\Ropa.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\Ropa.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\Ropa.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\Ropa.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\refint\Ropa.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\Ropa.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\Ropa.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Ropa\Ropa\obj\Debug\net8.0\ref\Ropa.dll

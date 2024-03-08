@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\bin\Debug\net8.0\Mayoromenor.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\bin\Debug\net8.0\Mayoromenor.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\bin\Debug\net8.0\Mayoromenor.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\bin\Debug\net8.0\Mayoromenor.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\bin\Debug\net8.0\Mayoromenor.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\Mayoromenor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\Mayoromenor.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\Mayoromenor.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\Mayoromenor.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\Mayoromenor.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\refint\Mayoromenor.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\Mayoromenor.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\Mayoromenor.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Mayoromenor\obj\Debug\net8.0\ref\Mayoromenor.dll
